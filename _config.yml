@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vishwa's Profile"
 title_separator          : "-"
 name                     : &name "Vishwa Shah"
-description              : &description "personal description"
+description              : &description "Computer Science Undergraduate"
 url                      : https://vishwa27yvs.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vishwa27yvs/vishwa27yvs.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vishwa Shah"
   avatar           : "profile.png"
-  bio              : "Computer Science Undergrad, BITS Pilani, Goa Campus"
+  bio              : "Computer Science Undergraduate, BITS Pilani, Goa Campus"
   location         : "Goa, India"
   employer         :
   pubmed           : 
