@@ -3,7 +3,11 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-
+redirect_from:
+  - /resume
 ---
-* [Curriculum Vitae](https://github.com/vishwa27yvs/vishwa27yvs.github.io/blob/master/files/Vishwa_Shah%20_Resume.pdf){:target="_blank"}
-* [Resume](https://github.com/vishwa27yvs/vishwa27yvs.github.io/blob/master/files/Vishwa_Shah%20_Resume.pdf){:target="_blank"}
+
+{% include base_path %}
+
+* [Curriculum Vitae](files/Vishwa_Shah _CV.pdf.pdf){:target="_blank"}.
+* [Resume](files/Vishwa_Shah _Resume.pdf){:target="_blank"}
