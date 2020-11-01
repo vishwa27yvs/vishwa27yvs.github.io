@@ -1,6 +1,5 @@
 ---
 title: 'Markov Model For Natural Language'
-date: 2019-05-01
 permalink: /posts/2019/05/markov-model/
 redirect_to: https://github.com/vishwa27yvs/Intro-to-Computer-Science-COS-126/tree/master/Markov%20Model
 tags:
