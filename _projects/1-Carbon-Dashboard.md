@@ -1,4 +1,5 @@
 ---
+type: "Student project"
 title: "Carbon Dashboard"
 permalink: /projects_new/1-Carbon-Dashboard
 
