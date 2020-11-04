@@ -2,6 +2,9 @@
 main:
   #- title: "Projects"
    # url: /projects/ 
+   
+  - title: "Projects"
+    url: /projects_new/
         
   - title: "Teaching"
     url: /teaching/    
@@ -9,7 +12,6 @@ main:
   - title: "CV and Resume"
     url: /cv/
     
-  - title: "Projects"
-    url: /projects_new/
+  
    
   
