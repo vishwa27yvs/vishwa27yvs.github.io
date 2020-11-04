@@ -4,7 +4,7 @@ main:
    # url: /projects/ 
    
   - title: "Projects"
-    url: /projects_new/
+    url: /projects/
         
   - title: "Teaching"
     url: /teaching/    
