@@ -1,12 +1,20 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a third-year undergratuate at [BITS Pilani, K K Birla Goa Campus](https://www.bits-pilani.ac.in/goa/) pursuing Computer Science Engineering. My fields of interest mainly includes Machine Learning and Deep Learning. I am also interested in discrete structures and graph theory.
+
+Previously I worked as a Software Engineer Intern at [Microsoft India(R&D)](https://www.microsoft.com/en-in/msidc/) where I worked on the project Carbon Dashboard to  build [Time Series Models using Machine Learning](https://vishwa27yvs.github.io//projects/) for building sustainability solutions. During my research internship at [CSIR - Central Electronics Engineering Research Institute, Pilani](https://www.ceeri.res.in/), I worked on building Deep Learning Algorithms for Health Monitoring of Building Structures. 
+
+##NEWS
+* \[July 2020\] - Completed internship at Microsoft India[R&D].
+* \[June 2020\] - Completed internship at CSIR - Central Electronics Engineering Research Institute, Pilani.
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
