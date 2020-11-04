@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant, CSF111: Computer Programming"
+title: "Carbon Dashboard"
 permalink: /projects_new/Carbon-Dashboard
 
 ---
