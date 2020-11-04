@@ -1,6 +1,6 @@
 ---
 title: "Modelling The Cognitive Functions of Consumer Behaviour "
-permalink: /projects_new/ML-CogN
+permalink: /projects_new/3-ML-CogN
 ---
 
 This project aims to predict consumer behaviour using brain wave measurement technology and machine learning. Processed the collected brain data‑EEG signals using MATLAB EEGlab toolkit. Developed a Machine Learning Model in Python to predict consumer behaviour using classification algorithms like K‑ Nearest Neighbors and
