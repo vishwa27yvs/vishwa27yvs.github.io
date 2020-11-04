@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /projects/ 
+  #- title: "Projects"
+   # url: /projects/ 
         
   - title: "Teaching"
     url: /teaching/    
@@ -9,7 +9,7 @@ main:
   - title: "CV and Resume"
     url: /cv/
     
-  - title: "Projects Tab"
+  - title: "Projects"
     url: /projects_new/
    
   
