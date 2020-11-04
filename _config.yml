@@ -251,7 +251,7 @@ defaults:
    - scope:
       path: ""
       type: projects
-    values:
+     values:
       layout: single
       author_profile: true
       share: true
