@@ -2,7 +2,7 @@
 title: "Carbon Dashboard"
 collection: projects
 type: "Student project"
-permalink: /projects_new/1-Carbon-Dashboard
+permalink: /projects/1-Carbon-Dashboard
 venue: "Microsoft India (R&D)"
 location: "India"
 ---
