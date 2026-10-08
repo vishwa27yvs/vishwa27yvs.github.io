@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Selected Projects — Vishwa Shah</title>
+  <meta name="author" content="Vishwa Shah">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/style.css?v=6">
+</head>
+<body>
+
+  <header class="navbar reveal d1">
+    <div class="navbar__inner">
+      <a href="index.html" class="navbar__brand">Vishwa Shah</a>
+      <nav class="navbar__links">
+        <a href="index.html">About</a>
+        <a href="experience.html">Experience</a>
+        <a href="publications.html">Publications</a>
+        <a href="projects.html" class="active">Projects</a>
+        <a href="teaching.html">Teaching</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main">
+    <section class="reveal d2" id="projects">
+      <h2 class="section-title">Selected Projects</h2>
+
+      <div class="entry">
+        <div class="entry__header">
+          <span class="entry__title">Enhancing Long-term Memory in Agents by Learning during Inference</span>
+          <span class="entry__meta">Sep 2024 – Mar 2025</span>
+        </div>
+        <p class="entry__subtitle">Supervisors: <a href="https://dpfried.github.io/" target="_blank">Prof. Daniel Fried</a>, <a href="https://phontron.com/" target="_blank">Prof. Graham Neubig</a> — CMU, LTI</p>
+        <ul>
+          <li>Improving web agents during inference with auto-eval feedback to deduce granular sub-trajectories and induce memory.</li>
+          <li>Studying failure modes across open-source and closed-source model families to tune for specific inabilities.</li>
+        </ul>
+      </div>
+
+      <div class="entry">
+        <div class="entry__header">
+          <span class="entry__title">Attention-guided Diffusion to Improve Contextualization</span>
+          <span class="entry__meta">Sep 2024 – Dec 2024</span>
+        </div>
+        <p class="entry__subtitle">Supervisor: <a href="https://www.cs.cmu.edu/~junyanz/" target="_blank">Prof. Jun-Yan Zhu</a> — CMU, LTI · <a href="https://drive.google.com/file/d/1UnB_cYC6w8VcnCODtngobiRa7Wo2vIwV/view?usp=sharing" target="_blank">Report</a></p>
+        <ul>
+          <li>Improving binding and context in diffusion models via attention-weighted encoding to improve downstream generations for ambiguous and long-range prompts during inference.</li>
+        </ul>
+      </div>
+
+      <div class="entry">
+        <div class="entry__header">
+          <span class="entry__title">Evaluating Robust Use of Information in Long Context</span>
+          <span class="entry__meta">Jan 2024 – Jun 2024</span>
+        </div>
+        <p class="entry__subtitle">Supervisor: <a href="https://phontron.com/" target="_blank">Prof. Graham Neubig</a> — CMU, LTI · <a href="https://drive.google.com/file/d/1-hlEGRj8BVD1c_4MkyAxJr6gMzQA5U7Y/view?usp=sharing" target="_blank">Report</a></p>
+        <ul>
+          <li>Analyzed the robustness of diverse language models in using relevant information in long context regardless of position, examining the effects of positional encodings, attention, and architecture.</li>
+          <li>Empirically demonstrated that most long-context adaptation methods (e.g. RoPE, attention-based retrieval) remain susceptible to the lost-in-the-middle problem.</li>
+          <li>Extended this analysis to RepoEval (repository-level code generation), showing a significant drop in function-calling performance as context length increases.</li>
+        </ul>
+      </div>
+
+      <div class="entry">
+        <div class="entry__header">
+          <span class="entry__title">Mitigating Hallucinations in Language Models</span>
+          <span class="entry__meta">Sep 2023 – Jun 2024</span>
+        </div>
+        <p class="entry__subtitle">Supervisor: <a href="https://maartensap.com/" target="_blank">Prof. Maarten Sap</a> — CMU, LTI · <a href="https://drive.google.com/file/d/1iLFCQ8OGMxvpwkEKeep8oJcyC4pdmrRv/view?usp=sharing" target="_blank">Report</a></p>
+        <ul>
+          <li>Improving factual correctness in summarization models to mitigate intrinsic hallucination with automatic feedback.</li>
+          <li>Developing fine-grained reward models to capture factual contradictions and unsupported spans in generated summaries.</li>
+        </ul>
+      </div>
+
+      <div class="entry">
+        <div class="entry__header">
+          <span class="entry__title">Offensive Hindi-English Tweet Detection</span>
+          <span class="entry__meta">Jun 2021 – May 2022</span>
+        </div>
+        <p class="entry__subtitle"><a href="https://www.clsnet-lab.in/" target="_blank">CLSNet Lab</a>, BITS Goa · Supervisor: <a href="https://universe.bits-pilani.ac.in/goa/swatia/profile" target="_blank">Prof. Swati Agarwal</a></p>
+        <ul>
+          <li>Built classification models to detect hate speech, trolling, and offensive language in tweets.</li>
+          <li>Built a federated learning setup to jointly learn from diverse code-switched, code-mixed Hindi-English tweet datasets.</li>
+          <li>Built knowledge graphs linking connected concepts in English and Hindi offensive content, enabling better representations via graph embeddings.</li>
+        </ul>
+      </div>
+
+      <div class="entry">
+        <div class="entry__header">
+          <span class="entry__title">Predicting Stock Price Volatility and Analysing Demographic Bias</span>
+          <span class="entry__meta">Dec 2020 – Jan 2021</span>
+        </div>
+        <p class="entry__subtitle">
+          <a href="https://drive.google.com/file/d/1eA3sd4iws6EcS2O0okMTkMKusJuIjXZm/view?usp=sharing" target="_blank">Report</a> ·
+          <a href="https://github.com/vishwa27yvs/Stock-Volatility-Forecasting" target="_blank">Code</a> ·
+          <a href="https://drive.google.com/file/d/12GSkDEHqU_LpvrnXp58DAaZn6sFDE3T3/view?usp=sharing" target="_blank">Paper</a>
+        </p>
+        <ul>
+          <li>Predicted stock price volatility following earnings call releases on the text-audio paired MAEC dataset.</li>
+          <li>Evaluated and demonstrated demographic bias in state-of-the-art volatility prediction architectures, analyzing input semantic and modality-wise bias.</li>
+        </ul>
+      </div>
+    </section>
+
+    <footer class="page-footer reveal d3">
+      &copy; 2026 Vishwa Shah.
+    </footer>
+  </main>
+</body>
+</html>
